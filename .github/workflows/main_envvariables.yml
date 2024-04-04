@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'EnvVariables'
           slot-name: 'Production'
-          package: .
+          package: ./test1
           
